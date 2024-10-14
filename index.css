@@ -1,0 +1,55 @@
+.container{
+    width: 500px;
+    border-style: solid;
+    border-width: 2px;
+}
+
+.header{
+    border-width: 2px;
+    border-style: solid;
+    height: 100px;
+    margin-top: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+
+}
+
+.body{
+    height: 250px;
+    width: 250px;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 1000px;
+    margin-top: 20px;
+    margin-left: 140px;
+
+}
+
+.name{
+    border-style: solid;
+    border-width: 2px;
+    height: 30px;
+    margin-top: 10px;
+    width: 200px;
+    margin-left: 160px;
+
+}
+
+.roll-no{
+    height: 30px;
+    width:250px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 130px;
+    margin-top: 10px;
+}
+
+.mail{
+    height: 30px;
+    width:300px;
+    border-style: solid;
+    border-width: 2px;
+    margin-left: 110px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
